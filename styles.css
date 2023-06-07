@@ -1,0 +1,9 @@
+.centered {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+  }
+  .small-image {
+    width: 0.5;
+    height: 0.5;
+  }
